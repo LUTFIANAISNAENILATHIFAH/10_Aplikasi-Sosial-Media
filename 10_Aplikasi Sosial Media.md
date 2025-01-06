@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <strong> ANGGOTA KELOMPOK:</strong><br>
+  <strong> ANGGOTA KELOMPOK 10:</strong><br>
   Zahra Tsuroyya Poetri (2311102127)<br>
   Lutfiana Isnaeni Lathifah (2311102165)<br>
   Ria Wulandari (2311102173)<br>
